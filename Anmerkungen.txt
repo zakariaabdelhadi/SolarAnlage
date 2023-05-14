@@ -1,0 +1,4 @@
+for node Streams: tutaurial --> https://stateful.com/blog/process-large-files-nodejs-streams
+-  you don’t have to wait for all the data to load
+- process large data continuously in smaller chunks without keeping it all in memory. 
+- you don’t have to wait for all the data to load before you start processing
